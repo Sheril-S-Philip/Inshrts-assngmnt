@@ -85,4 +85,10 @@ dependencies {
     implementation("androidx.paging:paging-runtime:3.3.6")
     implementation("androidx.paging:paging-compose:3.3.6")
 
+//    //Junit test
+//    testImplementation("junit:junit:4.13.2")
+//    androidTestImplementation("androidx.test.ext:junit:1.2.1")
+//    androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
+//    androidTestImplementation("androidx.compose.ui:ui-test-junit4:1.8.3")
+//    androidTestImplementation("androidx.compose.ui:ui-test-manifest:1.8.3")
 }
